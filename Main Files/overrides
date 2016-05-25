@@ -573,7 +573,8 @@ span.field-with-fancyplaceholder label.placeholder{
 }
 
 body.no-headers #content, body.embedded #content{
-  background: url("http://i.cubeupload.com/y8D4fy.png");
+  background: url("http://i.cubeupload.com/uuM6Mh.png") no-repeat scroll 0 0 transparent;
+  background-position: center;
 }
 
 #modal-box-inner{

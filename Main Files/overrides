@@ -591,3 +591,8 @@ body.no-headers #content, body.embedded #content{
   left: 10px;
   width: 165px;
 }
+
+/* Quiz Fix */
+label, input, button, select, textarea{
+  color: black;
+}

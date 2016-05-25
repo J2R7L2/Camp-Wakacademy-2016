@@ -32,7 +32,7 @@
 }
 
 #identity a{
-  font-family: "Roboto";
+  font-family: "Roboto", "Arial", "Helvetica";
   text-transform: uppercase;
 }
 
@@ -208,7 +208,7 @@ ul.ig-list items context_module_items{
   display: block;
   width: 240px;
   height: 20px;
-  font-family: "Roboto";
+  font-family: "Roboto", "Arial", "Helvetica";
   text-transform: uppercase;
   text-align: -webkit-center;
   margin-top: 10px;
@@ -227,7 +227,7 @@ ul.ig-list items context_module_items{
   display: block;
   width: 550px;
   height: 20px;
-  font-family: "Roboto";
+  font-family: "Roboto", "Arial", "Helvetica";
   text-transform: uppercase;
   text-align: -webkit-center;
   margin-bottom: 10px;
@@ -251,7 +251,7 @@ body.modal #footer{
   margin-left: 15px;
   margin-top: 15px;
   margin-bottom: 15px;
-  font-family: "Roboto";
+  font-family: "Roboto", "Arial", "Helvetica";
 }
 
 #right-side .button-sidebar-wide{
@@ -295,7 +295,7 @@ body.modal #footer{
 }
 
 body{
-  font-family: "Roboto";
+  font-family: "Roboto", "Arial", "Helvetica";
 }
 
 #right-side h2, #right-side .h2{
@@ -505,7 +505,7 @@ body.modal #modal-box .btn:hover {
   padding-bottom: 5px;
   color: #F5F5F5;
   text-shadow: none;
-  font-family: "Roboto";
+  font-family: "Roboto", "Arial", "Helvetica";
 }
 
 .register_banner .ic-Login__banner-subtitle{
@@ -515,7 +515,7 @@ body.modal #modal-box .btn:hover {
 
 body.modal #modal-box.login-box a{
   color: #1B5E20;
-  font-family: "Roboto";
+  font-family: "Roboto", "Arial", "Helvetica";
   top: -60px;
 }
 
@@ -531,7 +531,7 @@ body.webkit #modal-box.login-box input.text{
   border-radius: 0px;
   margin: none;
   color: white;
-  font-family: "Roboto";
+  font-family: "Roboto", "Arial", "Helvetica";
   transition:0.2s ease all;
 }
 
@@ -548,7 +548,7 @@ span.field-with-fancyplaceholder label.placeholder span{
   top:10px;
   transition:0.2s ease all;
   padding: 0px;
-  font-family: "Roboto";
+  font-family: "Roboto", "Arial", "Helvetica";
   pointer-events: none;
 }
 

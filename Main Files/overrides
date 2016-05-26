@@ -596,3 +596,16 @@ body.no-headers #content, body.embedded #content{
 label, input, button, select, textarea{
   color: black;
 }
+
+/* Secondary Button Fix - Wasn't really a problem just a graphical error I didn't really bother fixing. The buttons still worked.*/
+.message-detail.span8 .message-detail-actions li a, .message-detail.span8 .actions li a{
+  color: white;
+}
+
+.message-detail.span8 .message-detail-actions li a, .message-detail.span8 .actions li a:hover{
+  color:white;
+}
+
+.message-detail.span8 .message-detail-actions li a:hover, .message-detail.span8 .message-detail-actions li a:focus, .message-detail.span8 .actions li a:hover, .message-detail.span8 .actions li a:focus{
+  color: white;
+}
